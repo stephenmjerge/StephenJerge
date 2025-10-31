@@ -1,27 +1,32 @@
-# Welcome  
-**Hobby Programmer | Game Dev Tinkerer**
+# Stephen Jerge
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000?logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+**Pre-Medical Student | Psychology and Biology**
 
-Just a hobbyist exploring game development in my free time. I mess with Unreal Engine, Blender, coding, and modding — whatever helps me build or break stuff.
-
----
-
-## What I Do  
-- Game projects and tools  
-- 3D modeling and animation  
-- Modding games  
-- Learning by building
+Focused on the intersection of neuroscience, psychiatry, and analytical psychology.  
+Interested in how biological processes give rise to consciousness, emotion, and meaning.
 
 ---
 
-## Tools & Interests  
-- Unreal Engine  
-- Blender  
-- Java, C++, Python  
-- Game mechanics, shaders, engine logic
+### Current Focus
+- Studying biological and psychological foundations of mental health  
+- Developing small research and coding projects that model cognitive and emotional processes  
+- Exploring clinical applications of psychology and data science  
+- Preparing for future work in psychiatry and clinical research  
 
 ---
 
-This is where I drop whatever I’m learning or working on.
+### Academic & Technical Interests
+- Neurobiology of emotion and behavior  
+- Analytical psychology and symbolic meaning  
+- Psychophysiology and consciousness studies  
+- Data-driven approaches to psychological research  
+
+---
+
+### Tools & Languages
+`Python` `Java` `SQL` `Spring Boot` `VS Code` `Markdown`
+
+---
+
+### Professional Outlook
+Committed to an evidence-based, integrative understanding of the human mind — combining science, medicine, and psychology to improve mental health outcomes.
