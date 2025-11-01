@@ -27,9 +27,3 @@ My goal is to bridge **empirical science** with **depth psychology** — studyin
 - Dream research and consciousness studies  
 - Psychophysiology and mind–body integration  
 - Data-driven and reflective methods in mental-health research  
-
----
-
-### 🌍 Outlook
-I’m committed to an **integrative understanding of the human being** — uniting science, psychology, and spirituality to promote healing and awareness.  
-This repository reflects both personal exploration and professional preparation: a living record of inquiry, growth, and the pursuit of knowledge meant to be shared in service to others.
