@@ -1,29 +1,38 @@
-# **Stephen Jerge**
+# **Stephen Jerge Ψ**  
+**Pre-Medical Student | Psychology & Psychiatry**
 
-**Pre-Medical Student | Psychology and Psychiatry**
-
-Exploring the intersection of **mind, meaning, and medicine** — where psychology, psychiatry, and theology converge to illuminate the nature of consciousness and healing.  
-
----
-
-### 🧠 Purpose & Direction
-This space serves as both a **research hub** and a **systematic archive** for my ongoing psychological self-study.  
-Through journaling, dream analysis, and reflective inquiry, I document the relationship between inner experience, biological processes, and symbolic meaning.  
-My goal is to bridge **empirical science** with **depth psychology** — studying how the human mind creates and transforms meaning.  
+I build small, practical tools that support psychological and psychiatric research.  
+My work focuses on data cleaning, anonymization, research workflow automation, and core computational-psychiatry concepts.
 
 ---
 
-### 🔬 Current Focus
-- Integrating **psychology, psychiatry, and theology** into a unified exploration of consciousness and mental health  
-- Developing small research and analytical projects to model emotional and cognitive processes  
-- Using GitHub to structure, organize, and analyze my personal reflections and research notes  
-- Seeking **research opportunities** that align with psychiatry, neuroscience, and analytical psychology — with the intention of paying forward what I learn  
+## **Core Projects**
+
+Tools I develop to support clinical research and long-term work in psychiatry:
+
+### **1. Psych Research Data Toolkit**  
+Reproducible CSV cleaning, anonymization, descriptives, and symptom-trend visualization.
+
+### **2. Article / DOI Fetcher**  
+Fetches academic PDFs, extracts metadata, and keeps research libraries organized.
+
+### **3. Reinforcement-Learning Simulation**  
+Simple computational models demonstrating reward learning, decision-making, and prediction-error processes.
+
+### **4. PDF & Research Workflow Organizer**  
+Utilities for managing papers, references, and lab-style notes efficiently.
+
+### **5. Private Clinical/Behavioral Tools *(not public)*  
+Structured journal organizer and mood/behavior tracking tools for personal research discipline.
 
 ---
 
-### 🧩 Academic & Theoretical Interests
-- Neurobiology of emotion and behavior  
-- Analytical psychology and symbolic meaning  
-- Dream research and consciousness studies  
-- Psychophysiology and mind–body integration  
-- Data-driven and reflective methods in mental-health research  
+## **Purpose**
+
+Develop the technical and research habits expected of a future clinician-scientist:
+
+- data literacy  
+- reproducible workflows  
+- research organization  
+- computational thinking  
+- professional, scientific coding practices
