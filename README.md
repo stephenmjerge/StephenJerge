@@ -22,9 +22,6 @@ Simple computational models demonstrating reward learning, decision-making, and 
 ### **4. PDF & Research Workflow Organizer**  
 Utilities for managing papers, references, and lab-style notes efficiently.
 
-### **5. Private Clinical/Behavioral Tools *(not public)*  
-Structured journal organizer and mood/behavior tracking tools for personal research discipline.
-
 ---
 
 ## **Purpose**
