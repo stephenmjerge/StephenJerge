@@ -10,7 +10,7 @@ My work focuses on data cleaning, anonymization, research workflow automation, a
 
 Tools I develop to support clinical research and long-term work in psychiatry:
 
-### **1. Psych Research Data Toolkit**  
+### [**1. Psych Research Data Toolkit**](https://github.com/stephenmjerge/psych-research-data-toolkit)
 Reproducible CSV cleaning, anonymization, descriptives, and symptom-trend visualization.
 
 ### **2. Article / DOI Fetcher**  
