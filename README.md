@@ -16,7 +16,7 @@ Reproducible CSV cleaning, anonymization, descriptives, and symptom-trend visual
 ### 2. [**Article / DOI Fetcher**](https://github.com/stephenmjerge/article-digital-object-identifier-fetcher) 
 Fetches academic PDFs, extracts metadata, and keeps research libraries organized.
 
-### **3. Reinforcement-Larning Simulation**  
+### **3. Reinforcement Learning Simulation**  
 Simple computational models demonstrating reward learning, decision-making, and prediction-error processes.
 
 ### **4. PDF & Research Workflow Organizer**  
