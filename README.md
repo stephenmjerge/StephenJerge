@@ -16,7 +16,7 @@ Reproducible CSV cleaning, anonymization, descriptive statistics, and symptom-tr
 ### 2. [**Article / DOI Fetcher**](https://github.com/stephenmjerge/article-digital-object-identifier-fetcher)  
 Fetches academic PDFs, extracts metadata, and maintains an organized research library for literature-review workflows.
 
-### **3. Mini Psychological Assessment Lab**  
+### 3. [**Mini Psychological Assessment Lab**](https://github.com/stephenmjerge/mini-psychological-assessment-lab)  
 A small, extensible toolkit that scores common self-report measures (PHQ-9, GAD-7, PCL-5, BDI-II), generates severity categories, creates simple visual progress trends, and produces structured score summaries — all using public scoring instructions and intended for research and educational use.
 
 ### **4. Reinforcement Learning Simulation**  
