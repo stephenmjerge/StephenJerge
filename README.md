@@ -19,10 +19,10 @@ Fetches academic PDFs, extracts metadata, and maintains an organized research li
 ### 3. [**Mini Psychological Assessment Lab**](https://github.com/stephenmjerge/mini-psychological-assessment-lab)  
 A small, extensible toolkit that scores common self-report measures (PHQ-9, GAD-7, PCL-5, BDI-II), generates severity categories, creates simple visual progress trends, and produces structured score summaries — all using public scoring instructions and intended for research and educational use.
 
-### **4. Reinforcement Learning Simulation**  
+### 4. [**Reinforcement Learning Simulation**](https://github.com/stephenmjerge/reinforcement-learning-simulation)
 Simple computational models illustrating reward learning, prediction error, and decision-making processes relevant to clinical psychology.
 
-### **5. PDF & Research Workflow Organizer**  
+### 5. [**PDF & Research Workflow Organizer**](https://github.com/stephenmjerge/portable-document-format-research-workflow-organizer)
 Utilities for managing papers, references, annotations, and lab-style notes efficiently.
 
 ---
