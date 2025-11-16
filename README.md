@@ -22,7 +22,7 @@ A small, extensible toolkit that scores common self-report measures (PHQ-9, GAD-
 ### 4. [**RL-Sim — Reinforcement Learning Simulation**](https://github.com/stephenmjerge/reinforcement-learning-simulation)
 Simple computational models illustrating reward learning, prediction error, and decision-making processes relevant to clinical psychology.
 
-### 5. [**PRWO — Psych Research Workflow Organizer**](https://github.com/stephenmjerge/portable-document-format-research-workflow-organizer)
+### 5. [**PRWO — Psych Research Workflow Organizer**](https://github.com/stephenmjerge/psych-research-workflow-organizer)
 Utilities for managing papers, references, annotations, and lab-style notes efficiently.
 
 ---
