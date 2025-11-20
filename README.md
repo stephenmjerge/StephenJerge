@@ -1,39 +1,41 @@
 # **Stephen Jerge Ψ**  
 **Clinical-Science–Track Researcher | Psychological Research Developer**
 
-I build small, practical tools that support **clinical and mental-health research**.  
-My work focuses on data cleaning, anonymization, reproducible workflows, and computational models of behavior.
+I build small, practical tools that support clinical and mental-health research—one-command runs that clean/de-ID data, flag issues, and leave a manifest.
+
+**See it fast:** (Demo link here when recorded) — PRDT run with sample PHQ-9/GAD-7 data.
+
+**Try it:**  
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install https://github.com/stephenmjerge/psych-research-data-toolkit/releases/latest/download/prdt-0.1.0-py3-none-any.whl
+prdt --config https://raw.githubusercontent.com/stephenmjerge/psych-research-data-toolkit/main/configs/anxiety.toml --outdir /tmp/prdt-demo
+```
+Outputs: clean/anonymized CSV, `alerts.json` (missingness/PHI/reliability), plots, and `run_manifest.json`.
 
 ---
 
-## **Core Projects**
+## Core Projects (clinician-facing first)
 
-Tools I develop to support clinical research and long-term work in clinical science:
+1) [**PRDT — Psych Research Data Toolkit**](https://github.com/stephenmjerge/psych-research-data-toolkit)  
+Clean + de-ID REDCap/Qualtrics exports; emit PHI quarantine, missingness/reliability alerts, plots, and a reproducible manifest.
 
-### 1. [**PRDT — Psych Research Data Toolkit**](https://github.com/stephenmjerge/psych-research-data-toolkit)  
-Reproducible CSV cleaning, anonymization, descriptive statistics, and symptom-trend visualization for mental-health datasets.
+2) [**MPAL — Mini Psychological Assessment Lab**](https://github.com/stephenmjerge/mini-psychological-assessment-lab)  
+Scores PHQ-9, GAD-7, PCL-5, BDI-II; outputs severity labels, simple trends, and structured summaries for research/educational use.
 
-### 2. [**ADOIF — Article / DOI Fetcher**](https://github.com/stephenmjerge/article-digital-object-identifier-fetcher)  
-Fetches academic PDFs, extracts metadata, and maintains an organized research library for literature-review workflows.
+3) [**PRWO — Psych Research Workflow Organizer**](https://github.com/stephenmjerge/psych-research-workflow-organizer)  
+Weekly checklist + scripts that keep roadmaps/PortfolioHub/readmes in sync; posters workspace for artifacts before OSF upload.
 
-### 3. [**MPAL — Mini Psychological Assessment Lab**](https://github.com/stephenmjerge/mini-psychological-assessment-lab)  
-A small, extensible toolkit that scores common self-report measures (PHQ-9, GAD-7, PCL-5, BDI-II), generates severity categories, creates simple visual progress trends, and produces structured score summaries — all using public scoring instructions and intended for research and educational use.
+4) [**ADOIF — Article / DOI Fetcher**](https://github.com/stephenmjerge/article-digital-object-identifier-fetcher)  
+Pulls PDFs/metadata and organizes a review library for lit sweeps and faculty targeting.
 
-### 4. [**RL-Sim — Reinforcement Learning Simulation**](https://github.com/stephenmjerge/reinforcement-learning-simulation)
-Simple computational models illustrating reward learning, prediction error, and decision-making processes relevant to clinical psychology.
-
-### 5. [**PRWO — Psych Research Workflow Organizer**](https://github.com/stephenmjerge/psych-research-workflow-organizer)
-Utilities for managing papers, references, annotations, and lab-style notes efficiently.
+5) [**RL-Sim — Reinforcement Learning Simulation**](https://github.com/stephenmjerge/reinforcement-learning-simulation)  
+Tiny reward-learning simulations to link symptom severity and decision-making.
 
 ---
 
-## **Purpose**
+## Why this matters (for clinics/research)
 
-Develop the technical and research habits of a future **clinical scientist**:
-
-- data literacy for psychological research  
-- reproducible workflows  
-- structured research organization  
-- computational and quantitative thinking  
-- professional, scientific coding practices  
-- tools that directly support clinical and translational research
+- Safer handling: HMAC anonymization + PHI guardrails; data dictionaries and alerts to catch issues early.  
+- Reproducible runs: manifests and configs per execution; tests run via `python -m pytest tests` (PRDT).  
+- Clinician-ready outputs: cleaned CSVs, severity summaries, and plots that slot in after REDCap/Qualtrics and before SPSS/R.
