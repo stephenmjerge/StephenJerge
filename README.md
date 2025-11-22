@@ -8,7 +8,7 @@ I build small, practical tools that support clinical and mental-health researchâ
 **Try it:**  
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
-pip install https://github.com/stephenmjerge/psych-research-data-toolkit/releases/latest/download/prdt-0.1.2-py3-none-any.whl
+pip install https://github.com/stephenmjerge/psych-research-data-toolkit/releases/latest/download/prdt-0.1.3-py3-none-any.whl
 prdt --config https://raw.githubusercontent.com/stephenmjerge/psych-research-data-toolkit/main/configs/anxiety.toml --outdir /tmp/prdt-demo
 ```
 Outputs: clean/anonymized CSV, `alerts.json` (missingness/PHI/reliability), plots, and `run_manifest.json`.
